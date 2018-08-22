@@ -5,6 +5,7 @@
 #### Include: 
 - reset-css
 - jquery 3
+- jquery-validation
 
 
 #### Check the dist after build
